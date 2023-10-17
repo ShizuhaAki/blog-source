@@ -405,8 +405,7 @@ github_banner:
 # ---------------------------------------------------------------
 
 font:
-  enable: false
-
+  enable: true
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
   host:
 
@@ -418,7 +417,7 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    family: Fira Sans
     size:
 
   # Font settings for site title (.site-title).
@@ -441,7 +440,7 @@ font:
   # Font settings for <code> and code blocks.
   codes:
     external: true
-    family:
+    family: Fira Mono
 
 # ---------------------------------------------------------------
 # SEO Settings
