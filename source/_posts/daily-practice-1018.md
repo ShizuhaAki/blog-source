@@ -3,7 +3,7 @@ title: "Daily Practice: Oct 18, 2023"
 date: 2023-10-18 15:55:51
 tags: xcpc, dp, knapsack
 ---
-Problem of the day: [CF1864D](https://codeforces.com/contest/1864/problem/D), *1800
+Problem of the day: [CF1862F](https://codeforces.com/contest/1862/problem/F), *1800
 
 ## Analysis
 As casting spells take no time, we can first fill up with mana and then deal with the monsters.
