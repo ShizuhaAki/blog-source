@@ -1,10 +1,9 @@
 ---
-title: daily-practice-1017
+title: "Daily Practice: Oct 17, 2023"
 date: 2023-10-17 23:11:45
-tags: algo, daily
+tags: xcpc, dp, constructive-algorithms
 ---
 
-# Daily Practice: Oct 17, 2023
 Problem of the day: [CF1864D](https://codeforces.com/contest/1864/problem/D), *1700
 ## Analysis
 The idea is pretty simple and cliche. Similar to the classical problem of flipping light bulbs on and off, with a light triggering every light bulbs surrounding it, all the operations we perform here can only affect numbers "below" the current number. Thus, we can fully determine what to do for the first row, and then the second row, until we get all the way to the bottom.
