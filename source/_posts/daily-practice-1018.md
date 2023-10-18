@@ -1,7 +1,7 @@
 ---
 title: "Daily Practice: Oct 18, 2023"
 date: 2023-10-18 15:55:51
-tags: xcpc, dp, knapsack
+tags: [xcpc, dp, knapsack]
 ---
 Problem of the day: [CF1862F](https://codeforces.com/contest/1862/problem/F), *1800
 

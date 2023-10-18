@@ -435,7 +435,7 @@ font:
   # Font settings for posts (.post-body).
   posts:
     external: true
-    family:
+    family: Fira Sans
 
   # Font settings for <code> and code blocks.
   codes:

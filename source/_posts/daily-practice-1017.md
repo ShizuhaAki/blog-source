@@ -1,7 +1,7 @@
 ---
 title: "Daily Practice: Oct 17, 2023"
 date: 2023-10-17 23:11:45
-tags: xcpc, dp, constructive-algorithms
+tags: [xcpc, dp, constructive-algorithms]
 ---
 
 Problem of the day: [CF1864D](https://codeforces.com/contest/1864/problem/D), *1700
